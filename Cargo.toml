@@ -1,0 +1,7 @@
+[package]
+name = "tabula"
+description = "A simple text editor."
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
